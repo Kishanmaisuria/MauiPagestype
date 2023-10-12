@@ -20,13 +20,19 @@
     <MauiXaml Update="Pages\DemoContentPage\DemoConPage3.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="Pages\NavConPage1.xaml">
+    <MauiXaml Update="Pages\FlyoutPages\FlyPages.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="Pages\NavConPage2.xaml">
+    <MauiXaml Update="Pages\NavConPages\NavConPage1.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="Pages\NavConPage3.xaml">
+    <MauiXaml Update="Pages\NavConPages\NavConPage2.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="Pages\NavConPages\NavConPage3.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="Pages\TabPages\TabPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
     <MauiXaml Update="Platforms\Windows\App.xaml">

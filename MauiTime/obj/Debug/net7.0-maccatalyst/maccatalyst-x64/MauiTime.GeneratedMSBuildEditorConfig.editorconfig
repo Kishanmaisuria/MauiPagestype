@@ -8,57 +8,69 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MauiTime
-build_property.ProjectDir = C:\Users\sskis\OneDrive\Documents\T4 Projects\WEEK1-4\MauiTime\
+build_property.ProjectDir = C:\Users\sskis\OneDrive\Documents\T4 Projects\WEEK1-4\MauiPagestype\MauiTime\
 
-[C:/Users/sskis/OneDrive/Documents/T4 Projects/WEEK1-4/MauiTime/App.xaml]
+[C:/Users/sskis/OneDrive/Documents/T4 Projects/WEEK1-4/MauiPagestype/MauiTime/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiTime.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/sskis/OneDrive/Documents/T4 Projects/WEEK1-4/MauiTime/Pages/DemoContentPage/DemoConPage.xaml]
+[C:/Users/sskis/OneDrive/Documents/T4 Projects/WEEK1-4/MauiPagestype/MauiTime/Pages/DemoContentPage/DemoConPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiTime.Pages.DemoContentPage.DemoConPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\DemoContentPage\DemoConPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\DemoContentPage\DemoConPage.xaml
 
-[C:/Users/sskis/OneDrive/Documents/T4 Projects/WEEK1-4/MauiTime/Pages/DemoContentPage/DemoConPage2.xaml]
+[C:/Users/sskis/OneDrive/Documents/T4 Projects/WEEK1-4/MauiPagestype/MauiTime/Pages/DemoContentPage/DemoConPage2.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiTime.Pages.DemoContentPage.DemoConPage2.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\DemoContentPage\DemoConPage2.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\DemoContentPage\DemoConPage2.xaml
 
-[C:/Users/sskis/OneDrive/Documents/T4 Projects/WEEK1-4/MauiTime/Pages/DemoContentPage/DemoConPage3.xaml]
+[C:/Users/sskis/OneDrive/Documents/T4 Projects/WEEK1-4/MauiPagestype/MauiTime/Pages/DemoContentPage/DemoConPage3.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiTime.Pages.DemoContentPage.DemoConPage3.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\DemoContentPage\DemoConPage3.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\DemoContentPage\DemoConPage3.xaml
 
-[C:/Users/sskis/OneDrive/Documents/T4 Projects/WEEK1-4/MauiTime/Pages/NavConPage1.xaml]
+[C:/Users/sskis/OneDrive/Documents/T4 Projects/WEEK1-4/MauiPagestype/MauiTime/Pages/FlyoutPages/FlyPages.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MauiTime.Pages.NavConPage1.xaml
-build_metadata.AdditionalFiles.TargetPath = Pages\NavConPage1.xaml
-build_metadata.AdditionalFiles.RelativePath = Pages\NavConPage1.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiTime.Pages.FlyoutPages.FlyPages.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\FlyoutPages\FlyPages.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\FlyoutPages\FlyPages.xaml
 
-[C:/Users/sskis/OneDrive/Documents/T4 Projects/WEEK1-4/MauiTime/Pages/NavConPage2.xaml]
+[C:/Users/sskis/OneDrive/Documents/T4 Projects/WEEK1-4/MauiPagestype/MauiTime/Pages/NavConPages/NavConPage1.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MauiTime.Pages.NavConPage2.xaml
-build_metadata.AdditionalFiles.TargetPath = Pages\NavConPage2.xaml
-build_metadata.AdditionalFiles.RelativePath = Pages\NavConPage2.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiTime.Pages.NavConPages.NavConPage1.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\NavConPages\NavConPage1.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\NavConPages\NavConPage1.xaml
 
-[C:/Users/sskis/OneDrive/Documents/T4 Projects/WEEK1-4/MauiTime/Pages/NavConPage3.xaml]
+[C:/Users/sskis/OneDrive/Documents/T4 Projects/WEEK1-4/MauiPagestype/MauiTime/Pages/NavConPages/NavConPage2.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MauiTime.Pages.NavConPage3.xaml
-build_metadata.AdditionalFiles.TargetPath = Pages\NavConPage3.xaml
-build_metadata.AdditionalFiles.RelativePath = Pages\NavConPage3.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiTime.Pages.NavConPages.NavConPage2.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\NavConPages\NavConPage2.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\NavConPages\NavConPage2.xaml
 
-[C:/Users/sskis/OneDrive/Documents/T4 Projects/WEEK1-4/MauiTime/Resources/Styles/Colors.xaml]
+[C:/Users/sskis/OneDrive/Documents/T4 Projects/WEEK1-4/MauiPagestype/MauiTime/Pages/NavConPages/NavConPage3.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiTime.Pages.NavConPages.NavConPage3.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\NavConPages\NavConPage3.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\NavConPages\NavConPage3.xaml
+
+[C:/Users/sskis/OneDrive/Documents/T4 Projects/WEEK1-4/MauiPagestype/MauiTime/Pages/TabPages/TabPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiTime.Pages.TabPages.TabPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\TabPages\TabPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\TabPages\TabPage.xaml
+
+[C:/Users/sskis/OneDrive/Documents/T4 Projects/WEEK1-4/MauiPagestype/MauiTime/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiTime.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/sskis/OneDrive/Documents/T4 Projects/WEEK1-4/MauiTime/Resources/Styles/Styles.xaml]
+[C:/Users/sskis/OneDrive/Documents/T4 Projects/WEEK1-4/MauiPagestype/MauiTime/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiTime.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

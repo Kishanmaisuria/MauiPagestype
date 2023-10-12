@@ -1,4 +1,6 @@
 ﻿using MauiTime.Pages;
+using MauiTime.Pages.FlyoutPages;
+using MauiTime.Pages.TabPages;
 
 namespace MauiTime
 {
@@ -8,7 +10,14 @@ namespace MauiTime
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new NavConPage1());
+            //var navigationPage = new NavigationPage(new NavConPage1());
+            //navigationPage.BarBackgroundColor = Colors.Firebrick;
+            //navigationPage.BarTextColor = Colors.Black;
+            //MainPage = navigationPage;
+
+            //MainPage = new FlyPages();
+
+            MainPage = new TabPage();
         }
     }
 }

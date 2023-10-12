@@ -24028,11 +24028,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sskis\\OneDrive\\Documents\\T4 Projects\\WEEK1-4\\MauiTime\\MauiTime.csproj",
+      "projectUniqueName": "C:\\Users\\sskis\\OneDrive\\Documents\\T4 Projects\\WEEK1-4\\MauiPagestype\\MauiTime\\MauiTime.csproj",
       "projectName": "MauiTime",
-      "projectPath": "C:\\Users\\sskis\\OneDrive\\Documents\\T4 Projects\\WEEK1-4\\MauiTime\\MauiTime.csproj",
+      "projectPath": "C:\\Users\\sskis\\OneDrive\\Documents\\T4 Projects\\WEEK1-4\\MauiPagestype\\MauiTime\\MauiTime.csproj",
       "packagesPath": "C:\\Users\\sskis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sskis\\OneDrive\\Documents\\T4 Projects\\WEEK1-4\\MauiTime\\obj\\",
+      "outputPath": "C:\\Users\\sskis\\OneDrive\\Documents\\T4 Projects\\WEEK1-4\\MauiPagestype\\MauiTime\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
