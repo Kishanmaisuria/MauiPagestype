@@ -2,24 +2,25 @@
 <TabbedPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MauiTime.Pages.TabPages.TabPage"
-             Title="TabPage">
+             Title="TabPage"
+            BackgroundColor="LightBlue">
     
-    <ContentPage Title="Home" IconImageSource="home.png">
-        <Label Text="This is Home Content Page"
+    <ContentPage Title="Home" IconImageSource="aaaaaa.png">
+        <Label Text="This is Home Page"
                Margin="20"
                FontAttributes="Bold"
-               FontSize="20"/>
+               />
     </ContentPage>
     <ContentPage Title="Cart" IconImageSource="cart.png">
-        <Label Text="This is Cart Content Page"
+        <Label Text="This is Cart Page"
                Margin="20"
                FontAttributes="Bold"
-               FontSize="20"/>
+               />
     </ContentPage>
     <ContentPage Title="Profile" IconImageSource="user.png">
-        <Label Text="This is Profile Content Page"
+        <Label Text="This is ProfilePage"
                Margin="20"
                FontAttributes="Bold"
-               FontSize="20"/>
+               />
     </ContentPage>
 </TabbedPage>

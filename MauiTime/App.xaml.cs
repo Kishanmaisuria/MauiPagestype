@@ -17,6 +17,7 @@ namespace MauiTime
 
             //MainPage = new FlyPages();
 
+
             MainPage = new TabPage();
         }
     }
