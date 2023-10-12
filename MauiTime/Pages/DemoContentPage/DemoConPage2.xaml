@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiTime.Pages.DemoConPage2"
+             Title="DemoConPage2"
+             BackgroundColor="Black">
+    <VerticalStackLayout>
+
+        <Label 
+            Text="Content Page 2"
+            VerticalOptions="Center" 
+            Margin="10"
+            FontSize="20"
+            FontAttributes="Bold"
+            TextColor="White"
+            BackgroundColor="LightBlue" 
+            HorizontalOptions="Center" />
+
+
+        <Button
+                Text="click here for Page 3"
+                Margin="20"
+                Clicked="Button_Clicked"
+                
+                
+                />
+
+        <Button
+                Text="Click to close"
+                Margin="20" 
+                Clicked="DCP1_Clicked"
+                
+                
+                />
+
+    </VerticalStackLayout>
+</ContentPage>
